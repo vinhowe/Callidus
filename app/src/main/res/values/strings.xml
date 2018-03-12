@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Callidus</string>
+    <string name="device_admin_description">Provides ability to make fake phone calls</string>
+</resources>
